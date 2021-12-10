@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Restaurant Menu | Starters</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="fontAwesome/css/all.css">
+    </head>
+    
+    <body class="body-meals">
+		
+        <div class="header">
+            <a href="index.html">
+                <i class="fas fa-long-arrow-alt-left"></i>
+            </a>
+            <img src="images/logo.png"/>
+        </div>
+            
+				</a>
+				<a href="Juice.html">
+					<div class="meals-lists-item">
+                        <h1>Juice<i class="fas fa-long-arrow-alt-right"></i></h1>
+                        <p></p>
+                    </div>
+				</a>
+				<a href="Strawberry coctail.html">
+					<div class="meals-lists-item">
+                        <h1>Strawberry coctail<i class="fas fa-long-arrow-alt-right"></i></h1>
+                        <p>.</p>
+                    </div>
+				</a>
+				<a href="Blue lagoon.html">
+					<div class="meals-lists-item">
+                        <h1>Blue lagoon<i class="fas fa-long-arrow-alt-right"></i></h1>
+                        <p></p>
+                    </div>
+				
+					<br/>
+            </div>  
+    </body>
+</html>
